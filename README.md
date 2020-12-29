@@ -2,7 +2,7 @@
 
 29/12
 
-Fixade en tidsverierande reproduktionsnummer. 
+Fixade ett tidsvarierande reproduktionsnummer. 
 
 28/12
 
