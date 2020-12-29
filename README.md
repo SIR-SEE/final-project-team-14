@@ -1,5 +1,9 @@
 # Uppdateringar
 
+29/12
+
+Fixade en tidsverierande reproduktionsnummer. 
+
 28/12
 
 Lade till så att de som är immuna förlorar sin immunitet efter en viss tid (dSdt: + alpha*R; dRdt: - alpha*R). Försökte även definiera en funktion för ett tidsvarierande reproduktionsnummer.
