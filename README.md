@@ -1,5 +1,9 @@
 # Uppdateringar
 
+30/12
+
+Lade till en graf för sjukvårdskapaciteten.
+
 29/12
 
 Fixade ett tidsvarierande reproduktionsnummer. 
