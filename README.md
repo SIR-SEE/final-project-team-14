@@ -1,5 +1,9 @@
 # Uppdateringar
 
+15/1
+
+Lade till den uppdaterade SEIR-modellen med en andra våg och "dead-compartment". 
+
 30/12
 
 Lade till en graf för sjukvårdskapaciteten.
