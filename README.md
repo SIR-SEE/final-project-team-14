@@ -1,5 +1,9 @@
 # Uppdateringar
 
+18/1 
+
+Lade till lockdown på beta
+
 15/1
 
 Lade till den uppdaterade SEIR-modellen med en andra våg och "dead-compartment". 
