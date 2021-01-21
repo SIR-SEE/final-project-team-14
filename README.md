@@ -1,5 +1,9 @@
 # Uppdateringar
 
+21/1
+
+La till vacinationsparametern i SIR.py
+
 18/1 
 
 Lade till lockdown på beta
@@ -23,4 +27,3 @@ Lade till så att de som är immuna förlorar sin immunitet efter en viss tid (d
 16/12
 
 Ändrade parametern k till gamma. Lade även till parametrarna R_0 (antalet personer som en infekterad person smittar i början) och D (antalet dagar som en person har och kan sprida viruset).
-
